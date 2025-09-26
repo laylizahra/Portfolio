@@ -7,3 +7,6 @@ Power BI portfolio
 
 Front End portfolio 
 1. 
+
+Data Analyst 
+1. EDA Transaction [https://github.com/laylizahra/EDA-Transaction]
