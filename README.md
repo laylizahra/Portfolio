@@ -17,4 +17,4 @@ Python Projects
 1. Calculator [https://github.com/laylizahra/Python-Calculator]
 
 Data Science 
-1. Housing Prediction 
+1. Housing Prediction [https://github.com/laylizahra/Housing-Prediction]
