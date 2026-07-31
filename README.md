@@ -18,3 +18,4 @@ Python Projects
 
 Data Science 
 1. Housing Prediction [https://github.com/laylizahra/Housing-Prediction]
+2. Sentiment Analysis of Movie Reviews [https://github.com/laylizahra/SentimentAnalysis]
