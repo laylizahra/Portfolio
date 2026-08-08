@@ -2,7 +2,7 @@
 
 🎒 A Mathematics student at Institut Teknologi Sepuluh Nopember (ITS)
 
-🖥️ I make projects about Data analysis, data science, Machine Learning, and all. 
+🖥️ I make projects about Data Analysis, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence. 
 
 ## Tech Stack 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
