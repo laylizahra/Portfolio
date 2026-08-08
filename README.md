@@ -1,5 +1,22 @@
-# Portfolio📂
-A collection of my Power BI, Front End, Data Analysist, Data Science, Machine Learning, and Artificial Intelligence projects
+# Hi! I'm Layli Zahra
+
+🎒 A Mathematics student at Institut Teknologi Sepuluh Nopember (ITS)
+🖥️ I make projects about Data analysis, data science, Machine Learning, and all. 
+
+## Tech Stack 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## Softwares
+
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 Power BI portfolio 
 1. Sales and Profit Interactive Dashboard [https://github.com/laylizahra/powerbi-sales-dashboard]
