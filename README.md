@@ -1,8 +1,13 @@
 # Hi! I'm Layli Zahra
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Mathematics+Student+%7C+ITS;Data+Science+Enthusiast;Machine+Learning+%26+AI+Learner;Turning+Data+into+Insights+%F0%9F%93%8A" />
+</p>
 
-🎒 A Mathematics student at Institut Teknologi Sepuluh Nopember (ITS)
+🎓 Mathematics student at Institut Teknologi Sepuluh Nopember (ITS)
 
-🖥️ I make projects about Data Analysis, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence. 
+💻 Passionate about Data Science, Machine Learning, and Artificial Intelligence.
+
+📊 I enjoy turning data and mathematical ideas into meaningful insights and intelligent solutions.
 
 ## Tech Stack 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
